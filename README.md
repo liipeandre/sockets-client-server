@@ -1,6 +1,6 @@
 # Client-Server Model with Sockets
 
-A simple application that sends a JSON between client and server, using Sockets.
+A simple application that sends a JSON between client and server using Sockets.
 
 ## Author
 
